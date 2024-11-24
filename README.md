@@ -78,5 +78,5 @@ This is a mobile application that allows users to create an account, browse food
 - **UI Features**: Light/Dark Mode
 
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-- Screen for app
+## Screen for app
 
